@@ -1,3 +1,3 @@
-module github.com/gotranspile/g722
+module github.com/michelepra/g722
 
 go 1.21.6
